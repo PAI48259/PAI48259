@@ -2,10 +2,10 @@
 - 👀 I’m interested in games, automobiles, buses, trains, aviation and technology
 - 🌱 I’m currently learning at university
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-        1. Gmail : chaowanonbmta5@gmail.com
-        2. IG : paiii_140
-        3. FB : Chaowanon Jarusmatusorn
+- 📫 How to reach me \n
+        1. Gmail : chaowanonbmta5@gmail.com \n
+        2. IG : paiii_140 \n
+        3. FB : Chaowanon Jarusmatusorn \n
 
 <!---
 PAI48259/PAI48259 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
